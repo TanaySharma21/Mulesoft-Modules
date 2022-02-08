@@ -1,6 +1,6 @@
 %dw 2.0
 
-type auto_0e7d5aa5_5d1f_4292_a49f_df922cc798f7_Output_Attributes = {|
+type auto_2e4e282d_de0c_4094_8fd3_8dfaa78f9a07_Input_Attributes = {|
   listenerPath: String, 
   rawRequestPath: String, 
   relativePath: String, 
